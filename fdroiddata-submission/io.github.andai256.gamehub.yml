@@ -1,0 +1,26 @@
+# Draft metadata for the F-Droid "fdroiddata" repository (submit as a merge request on GitLab).
+# Update the repo URL / tag once the code is on GitHub.
+Categories:
+  - Games
+License: MIT
+AuthorName: Aniket Kotlapure
+SourceCode: https://github.com/andai256/gamehub
+IssueTracker: https://github.com/andai256/gamehub/issues
+
+AutoName: GameHub
+
+RepoType: git
+Repo: https://github.com/andai256/gamehub.git
+
+Builds:
+  - versionName: '1.0'
+    versionCode: 1
+    commit: v1.0
+    subdir: app
+    gradle:
+      - yes
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: '1.0'
+CurrentVersionCode: 1

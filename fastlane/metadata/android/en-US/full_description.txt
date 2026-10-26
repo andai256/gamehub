@@ -1,0 +1,5 @@
+GameHub is a pocket arcade with 26 retro mini-games in one app, including Snake, Pong, Tetris, 2048, Minesweeper, Breakout, Asteroids, Space Invaders, Connect 4, Blackjack, Hangman, Tower Defense and more.
+
+Create player profiles, earn points, unlock upgrades in the shop, collect achievements and track your stats and daily streak.
+
+Everything works completely offline. The app has no ads, no tracking and requests no permissions.
